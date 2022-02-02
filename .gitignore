@@ -4,3 +4,9 @@
 
 ~$TypeScript 설치 방법 추가.pptx
 ~$Additional version of installing Type-Script.pptx
+
+###
+# Make sure set `node-modules` file not to UpLoad
+###
+
+/02-1/node_modules/
