@@ -10,3 +10,14 @@ This is first TypeScript-Project to learn how to use and apply into Web-Applicat
 ![슬라이드3](https://user-images.githubusercontent.com/48337874/152101242-87aa34e1-5e81-46b6-bd8b-715fb4bcfe7a.PNG)
 
 ![슬라이드4](https://user-images.githubusercontent.com/48337874/152101245-52c05229-6304-4357-b7b6-4e852f283a93.PNG)
+
+- [Upload Slide-Image](https://worthpreading.tistory.com/83)
+
+- [PPT Export-Image](https://www.manualfactory.net/10238)
+
+## TypeScript Install
+
+- [TypeScript-Install_(KOR)](https://m.blog.naver.com/thdbsgh3443/221372524988)
+
+- [TypeScript-Install_(ENG)](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
+
