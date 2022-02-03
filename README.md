@@ -25,18 +25,18 @@ This is first TypeScript-Project to learn how to use and apply into Web-Applicat
 ## TypeScript Project Settings Command
 
 ```
-- 1. mkdir number-subNumber
-- 2. cd number-subNumber
-- 3. npm init --y
+1. mkdir number-subNumber
+2. cd number-subNumber
+3. npm init --y
 
-- 4. npm i -D typescript ts-node
-- 5. npm i -D @types/node
-- 6. npm i
+4. npm i -D typescript ts-node
+5. npm i -D @types/node
+6. npm i
 
-- 7. tsc --init
+7. tsc --init
 
-- 8. mkdir -p src/utils
-- 9. touch src/index.ts src/utils/someFile.ts
+8. mkdir -p src/utils
+9. touch src/index.ts src/utils/someFile.ts
 ```
 
 ## `npm run build`
