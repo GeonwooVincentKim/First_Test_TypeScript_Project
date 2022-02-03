@@ -21,3 +21,15 @@ This is first TypeScript-Project to learn how to use and apply into Web-Applicat
 
 - [TypeScript-Install_(ENG)](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
 
+
+## `npm run build`
+
+- To Import and use `dist`, make sure `tsconfig.json` `outdir` attributes set
+
+```yaml
+{
+    "outdir": "dist"
+}
+```
+
+- And then re-run the `npm run build`
