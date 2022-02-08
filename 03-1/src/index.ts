@@ -21,3 +21,7 @@ let count = 10, message = "Your count"
 let result = `${message} is ${count}`
 console.log("Result -> ", result);
 console.log("\n--------------------------------\n")
+
+let o1: object = {name: "Jack", age: 32}
+o1 = {first: 1, second: 2}
+console.log("O1 -> " + o1)
