@@ -13,3 +13,11 @@ console.log("a -> ", a)
 a = {}
 console.log("a -> ", a)
 console.log("\n--------------------------------\n")
+
+let u: undefined = undefined
+console.log("u -> " + u);
+
+let count = 10, message = "Your count"
+let result = `${message} is ${count}`
+console.log("Result -> ", result);
+console.log("\n--------------------------------\n")
