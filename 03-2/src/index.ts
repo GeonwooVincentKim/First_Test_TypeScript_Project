@@ -1,4 +1,4 @@
-import { IPerson, IPerson2, ai } from "./utils/objectAndInterface";
+import { IPerson, IPerson2, ai, printMe } from "./utils/objectAndInterface";
 
 let good: IPerson = {name: 'Jack', age: 32}
 console.log("IPerson -> ", good)
@@ -11,5 +11,7 @@ let good3: IPerson2 = {name: 'Jack', age: 32, etc: true}
 console.log("IPerson1-2 -> ", good3)
 console.log("\n---------------------------------------\n")
 
-console.log("IPerson Anonymous-Function", ai);
+console.log("IPerson Anonymous-Object -> ", ai);
 console.log("\n---------------------------------------\n")
+
+console.log("IPerson2 PrintMe Anonymous-Function -> ", printMe(ai));
