@@ -1,4 +1,5 @@
 import { IPerson4 } from "./classAndObject_Interface";
+import { APerson5 } from "./classAndAbstractClass";
 
 export class Person1 {
     name: string
@@ -22,7 +23,8 @@ export class Person4 implements IPerson4 {
     constructor(public name: string, public age?: number) {}
 }
 
-abstract class AbstractPerson5 {
-    abstract name: string
-    constructor(public age?: number) {}
+export class Person5 extends APerson5 {
+    constructor(public name: string, age?: number) {
+        super(age)
+    }    
 }
