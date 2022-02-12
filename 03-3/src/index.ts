@@ -1,4 +1,4 @@
-import { Person1, Person2, Person3, Person4, Person5 } from "./utils/classAndObject";
+import { Person1, Person2, Person3, Person4, Person5, A } from "./utils/classAndObject";
 
 let jack1: Person1 = new Person1()
 jack1.name = 'Jack'; jack1.age = 32;
@@ -27,3 +27,7 @@ console.log("\n--------------------------\n")
 let jack5: Person5 = new Person5('Jack', 32);
 console.log("Jack5 -> ", jack5)
 
+console.log("\n--------------------------\n")
+
+let initial = A.initValue;
+console.log("Static Class -> ", initial);

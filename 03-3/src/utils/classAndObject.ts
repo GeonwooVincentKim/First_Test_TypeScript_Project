@@ -28,3 +28,7 @@ export class Person5 extends APerson5 {
         super(age)
     }    
 }
+
+export class A {
+    static initValue = 1
+}
