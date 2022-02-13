@@ -1,2 +1,3 @@
-let testName = 'vincent'
-console.log("TestName", testName);
+import * as contents from "./utils/structuring";
+
+console.log(contents);
