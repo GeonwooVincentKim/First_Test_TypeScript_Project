@@ -8,6 +8,9 @@
     "baseUrl": ".",
     "sourceMap": true,
     "downlevelIteration": true,
+    // No `ImplicitAny` can cause to make your code have error
+    // Setting `ImplicitAny` as false means make your function or Class Code
+    // as an `Any-Type`. 
     "noImplicitAny": false,
     "paths": {"*": ["node_modules/*"]},
     "allowJs": true
