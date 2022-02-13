@@ -1,3 +1,6 @@
-import * as contents from "./utils/structuring";
+import * as structure from "./utils/structuring";
+import * as destructure from "./utils/destructuring"
 
-console.log(contents);
+console.log(structure);
+console.log("\n----------------------------\n")
+console.log(destructure);
