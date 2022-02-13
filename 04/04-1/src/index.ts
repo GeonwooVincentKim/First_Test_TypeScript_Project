@@ -11,3 +11,4 @@ console.log("\n---------------------------------\n");
 
 let n = getName(undefined);
 console.log("N -> Find the function type is `undefine` or not `undefine` -> ", n);
+console.log("Get Name -> ", getName({name: 'Jack'}))
