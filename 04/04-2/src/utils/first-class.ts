@@ -1,2 +1,2 @@
-let f = function(a, b) {return a + b}
+export let f = function(a, b) {return a + b}
 f = function(a, b) { return a - b}
