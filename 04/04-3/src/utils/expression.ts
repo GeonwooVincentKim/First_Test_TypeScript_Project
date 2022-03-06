@@ -6,6 +6,8 @@ export function f(){
     let result = x + y + 10
 }
 
-export function isGreater(a: number, b: number) : boolean { 
+export function isGreater(a: number, b: number): boolean { 
     return a > b
 }
+
+export const isGreater2 = (a: number, b: number): boolean => a > b
