@@ -9,13 +9,14 @@
 # Make sure set `node-modules` file not to UpLoad
 ###
 
-/02-1/node_modules/
-/02-2/node_modules/
-/03-1/node_modules/
-/03-2/node_modules/
-/03-3/node_modules/
-/03-4/node_modules/
-/03-5/node_modules/
+/*/node_modules/
+# /02-1/node_modules/
+# /02-2/node_modules/
+# /03-1/node_modules/
+# /03-2/node_modules/
+# /03-3/node_modules/
+# /03-4/node_modules/
+# /03-5/node_modules/
 
 /04/*/node_modules/
 /05/*/node_modules/
