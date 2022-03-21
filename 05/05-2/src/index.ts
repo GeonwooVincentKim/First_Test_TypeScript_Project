@@ -5,4 +5,7 @@ console.log("\nDeclarative-Even-Sum Result -> ", evenResult);
 console.log("--------------------------------------");
 
 console.log("Square Sum -> ", squareSum);
+console.log("--------------------------------------");
+
+console.log("Square Sum -> ", squareSum);
 console.log("--------------------------------------\n");
