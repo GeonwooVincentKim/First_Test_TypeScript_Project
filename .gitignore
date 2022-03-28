@@ -9,7 +9,8 @@
 # Make sure set `node-modules` file not to UpLoad
 ###
 
+# For Single Level node-modules
 /*/node_modules/
 
-/04/*/node_modules/
-/05/*/node_modules/
+# For Double Level node-modules
+/*/*/node_modules/
