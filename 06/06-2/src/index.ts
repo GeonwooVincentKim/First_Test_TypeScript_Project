@@ -6,4 +6,3 @@ for (let value of generator())
 
 console.log("-------------------------\n")
 
-
