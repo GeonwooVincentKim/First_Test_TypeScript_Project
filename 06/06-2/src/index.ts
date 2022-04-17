@@ -5,4 +5,3 @@ for (let value of generator())
 	console.log(value)
 
 console.log("-------------------------\n")
-
